@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "flask-generator"
+name = "flask-app-gen"
 version = "0.1.0"
 description = ""
 authors = ["Sushmitha Popuri"]
