@@ -5,7 +5,7 @@ description = "Library for Generating Flask Applications in Rails-like Style"
 authors = ["Sushmitha Popuri"]
 readme = "README.md"
 packages = [{include="src"}]
-license = {text = "MIT License"}
+license = "MIT License"
 keywords = ["Python","Flask", "FlaskPython", "FlaskWebFramework", "FlaskWebDevelopment", "CodeGeneration", "FlaskDeveloperTools","FlaskRapidDevelopment", "FlaskDevTools", "scaffold", "FlaskScaffold","FlaskAPIDevelopment","Instant App"]
 
 [tool.poetry.dependencies]
