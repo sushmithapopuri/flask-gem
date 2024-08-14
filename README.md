@@ -23,7 +23,7 @@ Before installing, make sure you have the following installed:
 Install the library using `pip`:
 
 ```sh
-pip install flask-generator
+pip install flask-app-gen
 ```
 ### Manual Installation
 If you prefer, you can manually install the library by cloning the repository:
