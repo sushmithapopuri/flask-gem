@@ -5,6 +5,8 @@ description = ""
 authors = ["Sushmitha Popuri"]
 readme = "README.md"
 packages = [{include="src"}]
+license = {text = "MIT License"}
+keywords = ["Python","Flask", "FlaskPython", "FlaskWebFramework", "FlaskWebDevelopment", "CodeGeneration", "FlaskDeveloperTools","FlaskRapidDevelopment", "FlaskDevTools", "scaffold", "FlaskScaffold","FlaskAPIDevelopment","Instant App"]
 
 [tool.poetry.dependencies]
 python = "^3.12"
