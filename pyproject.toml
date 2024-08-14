@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flask-app-gen"
-version = "v1.0"
+version = "v1"
 description = "Library for Generating Flask Applications in Rails-like Style"
 authors = ["Sushmitha Popuri"]
 readme = "README.md"
