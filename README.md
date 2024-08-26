@@ -1,4 +1,4 @@
-# flask-generator
+# flask-gem
 A Library to generate a Flask app.
 
 # Table of Contents
@@ -28,7 +28,7 @@ pip install flask-gem
 ### Manual Installation
 If you prefer, you can manually install the library by cloning the repository:
 ```sh
-git clone https://github.com/sushmithapopuri/flask-generator.git
+git clone https://github.com/sushmithapopuri/flask-gem.git
 cd flask-generator
 pip install .
 ```
